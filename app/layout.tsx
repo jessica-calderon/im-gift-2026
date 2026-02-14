@@ -2,8 +2,8 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Your Gift",
-  description: "A gift for you",
+  title: " Happy Valentine's Day 2026",
+  description: "A gift for Jordan",
 };
 
 export default function RootLayout({
@@ -13,7 +13,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className="antialiased overflow-hidden">{children}</body>
+      <body className="antialiased">{children}</body>
     </html>
   );
 }
