@@ -20,7 +20,7 @@ export default function Footer() {
         <p>From Jessica, with love.</p>
         <p>To Jordan Rene.</p>
         <p className="mt-2 text-zinc-600">
-          Happy Valentine's Day 2026
+          Happy Valentine&apos;s Day 2026
         </p>
       </div>
     </footer>
