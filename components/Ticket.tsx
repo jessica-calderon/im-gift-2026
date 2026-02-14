@@ -2,7 +2,7 @@
 
 export default function Ticket() {
   return (
-    <div className="border border-amber-500/50 rounded-xl p-6 bg-zinc-900/80 max-w-sm text-center">
+    <div className="bg-zinc-900 border border-zinc-700 rounded-2xl px-8 py-10 shadow-xl mb-10 w-[320px] text-center">
       <p className="text-amber-400 font-medium text-sm uppercase tracking-wider mb-2">
         Iron Maiden
       </p>
